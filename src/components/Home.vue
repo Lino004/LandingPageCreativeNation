@@ -5,7 +5,7 @@
       id="home"
       class="s-home target-section"
       data-parallax="scroll"
-      :data-image-src="img"
+      data-image-src="https://firebasestorage.googleapis.com/v0/b/landingpagecreativenation.appspot.com/o/bg%2Fhero-bg.jpg?alt=media&token=7821834b-73f7-4ce6-b6db-6c7f5ca31785"
       data-natural-width=3000
       data-natural-height=2000
       data-position-y=center>
